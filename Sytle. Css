@@ -1,0 +1,44 @@
+/* Element Selector */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+/* ID Selector */
+#main-heading {
+    text-align: center;
+    color: #2c3e50;
+    margin-bottom: 10px;
+}
+
+/* Class Selector */
+.description {
+    text-align: center;
+    color: #555;
+    margin-bottom: 20px;
+}
+
+/* ID Selector */
+#add-expense {
+    background-color: #dff9fb;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+/* Element Selector */
+input {
+    display: block;
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin: 10px 0;
+}
+
+/* Class Selector */
+.expenses-section {
+    background-color: #ffeaa7;
+    padding: 20px;
+    border-radius: 8px;
+}
